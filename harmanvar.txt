@@ -1,2 +1,3 @@
 Git hub and its working
-And there is working  directory and staging area in it. 
+And there is working  directory and staging area in it.
+To add data to staging area we need to use the command "git add"
