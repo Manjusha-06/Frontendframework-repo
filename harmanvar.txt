@@ -1,1 +1,2 @@
 Git hub and its working
+And there is working  directory and staging area in it. 
