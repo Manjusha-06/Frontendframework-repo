@@ -1,0 +1,2 @@
+for pushing to remote repository use the command called git push
+when we press  git branch it directly takes us to the GitHub repository means we are on the main
